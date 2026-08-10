@@ -1,0 +1,16 @@
+Feature
+Avg Packet Size
+Packet Length Min
+ACK Flag Count
+Init Fwd Win Bytes
+Fwd Packet Length Min
+Packet Length Mean
+Fwd Packet Length Mean
+Packet Length Max
+Avg Fwd Segment Size
+Flow IAT Mean
+Fwd Packet Length Max
+Subflow Fwd Bytes
+Fwd IAT Mean
+Init Bwd Win Bytes
+Fwd Act Data Packets

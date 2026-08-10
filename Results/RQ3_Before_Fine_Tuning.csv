@@ -1,0 +1,2 @@
+Stage,Model,Accuracy,Precision,Recall,F1 Score
+Before Fine-Tuning,Decision Tree,0.9553931075637774,0.9864318706697459,0.9313164349959117,0.9580821533716529
